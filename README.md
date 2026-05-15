@@ -17,7 +17,7 @@ Through user survey research, the UX team hypothesized that direct language felt
 
 ## 🛠️ Tech Stack & Methodology
 *   **Language:** Python 3
-*   **Libraries Used:** `pandas`, `numpy`, `scipy.stats`, `itertools`
+*   **Libraries Used:** `pandas`, `numpy`, `scipy.stats`
 *   **Statistical Tests:**
     *   **Omnibus Test:** Chi-Square Test of Independence ($\alpha = 0.05$)
     *   **Post-Hoc Analysis:** Pairwise Chi-Square tests utilizing the **Bonferroni Adjustment** ($\alpha_{\text{adjusted}} = 0.0083$) to counteract Type I Errors across 6 unique comparisons.
